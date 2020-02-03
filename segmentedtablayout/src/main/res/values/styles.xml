@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <style name="SegmentedTabLayout">
+    <item name="tabIndicatorHeight">0dp</item>
+    <item name="tabPaddingStart">0dp</item>
+    <item name="tabPaddingEnd">0dp</item>
+    <!--
+    <item name="tabMaxWidth">1024dp</item>
+    <item name="tabMinWidth">1024dp</item>
+    -->
+  </style>
+
+</resources>
